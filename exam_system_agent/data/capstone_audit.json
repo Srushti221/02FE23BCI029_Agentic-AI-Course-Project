@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "START",
+    "detail": "Processing 4 students"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "Eligibility:STU001",
+    "detail": "APPROVED \u2705"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "Eligibility:STU002",
+    "detail": "REJECTED \u274c (2 issue(s))"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "Eligibility:STU003",
+    "detail": "APPROVED \u2705"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "Eligibility:STU004",
+    "detail": "REJECTED \u274c (4 issue(s))"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 1",
+    "action": "COMPLETE",
+    "detail": "2 approved"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 2",
+    "action": "Questions Fetched",
+    "detail": "CS301"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 2",
+    "action": "Answers:STU001",
+    "detail": "Submitted"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 2",
+    "action": "Answers:STU003",
+    "detail": "Submitted"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 3",
+    "action": "Graded:STU001",
+    "detail": "Grade=O"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 3",
+    "action": "Graded:STU003",
+    "detail": "Grade=B+"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 4",
+    "action": "Governance:publish_results",
+    "detail": "HIGH/APPROVED"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 5",
+    "action": "Published",
+    "detail": "Students=2"
+  },
+  {
+    "timestamp": "12:54:21",
+    "phase": "Phase 6",
+    "action": "Briefing Generated",
+    "detail": "avg=0%"
+  }
+]

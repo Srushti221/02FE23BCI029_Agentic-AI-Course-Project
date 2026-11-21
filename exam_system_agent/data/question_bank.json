@@ -1,0 +1,170 @@
+{
+  "AGI301": {
+    "course_name": "Agentic AI",
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "What is the main difference between an Agent and a Chatbot?",
+        "options": ["A) Agents only chat", "B) Agents plan and act autonomously", "C) Chatbots use tools", "D) No difference"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q2",
+        "question": "Which component allows an agent to remember past interactions?",
+        "options": ["A) Tool", "B) Skill", "C) Memory", "D) Prompt"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q3",
+        "question": "What does MCP stand for in Agentic AI?",
+        "options": ["A) Machine Control Protocol", "B) Model Context Protocol", "C) Memory Cache Processor", "D) Multi-Chain Pipeline"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q4",
+        "question": "In a multi-agent system, what is a Swarm?",
+        "options": ["A) A single agent", "B) Multiple agents working in parallel", "C) A type of tool", "D) A memory store"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q5",
+        "question": "Which pattern describes: Requirement -> Design -> Code -> Test -> Deploy?",
+        "options": ["A) RAG Pipeline", "B) Agentic SDLC Factory", "C) Memory Retrieval", "D) Node Graph"],
+        "answer": "B",
+        "marks": 2
+      }
+    ],
+    "total_marks": 10,
+    "duration_minutes": 30
+  },
+  "CNS302": {
+    "course_name": "Computer Networks & Security",
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Which layer of OSI model handles routing?",
+        "options": ["A) Physical", "B) Data Link", "C) Network", "D) Transport"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q2",
+        "question": "Which protocol is used for secure web communication?",
+        "options": ["A) HTTP", "B) FTP", "C) HTTPS", "D) SMTP"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q3",
+        "question": "What does AES stand for?",
+        "options": ["A) Advanced Encryption Standard", "B) Applied Error System", "C) Asymmetric Encoding Scheme", "D) Automatic Exchange Signal"],
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "id": "Q4",
+        "question": "Which attack intercepts communication between two parties?",
+        "options": ["A) DoS", "B) Phishing", "C) Man-in-the-Middle", "D) SQL Injection"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q5",
+        "question": "TCP ensures data delivery through:",
+        "options": ["A) Encryption", "B) Acknowledgements", "C) Broadcasting", "D) Multicasting"],
+        "answer": "B",
+        "marks": 2
+      }
+    ],
+    "total_marks": 10,
+    "duration_minutes": 30
+  },
+  "ML303": {
+    "course_name": "Machine Learning",
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Which algorithm is used for classification and regression?",
+        "options": ["A) K-Means", "B) Decision Tree", "C) PCA", "D) Apriori"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q2",
+        "question": "What is overfitting?",
+        "options": ["A) Model performs well on test data", "B) Model performs well only on training data", "C) Model has too few parameters", "D) Model uses too little data"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q3",
+        "question": "Which technique reduces overfitting?",
+        "options": ["A) Adding more layers", "B) Increasing epochs", "C) Regularization", "D) Removing test data"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q4",
+        "question": "K-Means is a type of:",
+        "options": ["A) Supervised Learning", "B) Reinforcement Learning", "C) Unsupervised Learning", "D) Semi-supervised Learning"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q5",
+        "question": "Which metric is used for classification accuracy?",
+        "options": ["A) RMSE", "B) MAE", "C) F1 Score", "D) R-squared"],
+        "answer": "C",
+        "marks": 2
+      }
+    ],
+    "total_marks": 10,
+    "duration_minutes": 30
+  },
+  "DBMS304": {
+    "course_name": "Database Management Systems",
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "Which SQL command retrieves data from a table?",
+        "options": ["A) INSERT", "B) UPDATE", "C) SELECT", "D) DELETE"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q2",
+        "question": "What is a Primary Key?",
+        "options": ["A) A key that allows duplicates", "B) A key that uniquely identifies a row", "C) A foreign key", "D) An index key"],
+        "answer": "B",
+        "marks": 2
+      },
+      {
+        "id": "Q3",
+        "question": "Which normal form removes transitive dependency?",
+        "options": ["A) 1NF", "B) 2NF", "C) 3NF", "D) BCNF"],
+        "answer": "C",
+        "marks": 2
+      },
+      {
+        "id": "Q4",
+        "question": "ACID stands for:",
+        "options": ["A) Atomicity, Consistency, Isolation, Durability", "B) Access, Control, Index, Data", "C) Aggregate, Commit, Insert, Delete", "D) None of the above"],
+        "answer": "A",
+        "marks": 2
+      },
+      {
+        "id": "Q5",
+        "question": "Which JOIN returns all rows from both tables?",
+        "options": ["A) INNER JOIN", "B) LEFT JOIN", "C) RIGHT JOIN", "D) FULL OUTER JOIN"],
+        "answer": "D",
+        "marks": 2
+      }
+    ],
+    "total_marks": 10,
+    "duration_minutes": 30
+  }
+}

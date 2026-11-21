@@ -1,0 +1,13 @@
+{
+  "STU001_AGI301": {
+    "grade": "Grade: S",
+    "subject": "Agentic AI"
+  },
+  "STU002_AGI301": {
+    "student_id": "STU002",
+    "course_id": "AGI301",
+    "marks": 10,
+    "grade": "O",
+    "timestamp": "2026-11-17 13:25:25"
+  }
+}

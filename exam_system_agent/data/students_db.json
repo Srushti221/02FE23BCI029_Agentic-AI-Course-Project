@@ -1,0 +1,46 @@
+{
+  "students": {
+    "STU001": {
+      "name": "Rahul Sharma",
+      "attendance": 82,
+      "assignments_submitted": 8,
+      "total_assignments": 10,
+      "internal_marks": 46,
+      "fees_paid": true,
+      "registered_courses": ["AGI301", "CNS302", "ML303"]
+    },
+    "STU002": {
+      "name": "Ananya Sharma",
+      "attendance": 61,
+      "assignments_submitted": 5,
+      "total_assignments": 10,
+      "internal_marks": 28,
+      "fees_paid": true,
+      "registered_courses": ["AGI301", "ML303"]
+    },
+    "STU003": {
+      "name": "Arjun Nair",
+      "attendance": 90,
+      "assignments_submitted": 10,
+      "total_assignments": 10,
+      "internal_marks": 42,
+      "fees_paid": true,
+      "registered_courses": ["AGI301", "CNS302", "ML303", "DBMS304"]
+    },
+    "STU004": {
+      "name": "Sneha Kulkarni",
+      "attendance": 55,
+      "assignments_submitted": 3,
+      "total_assignments": 10,
+      "internal_marks": 20,
+      "fees_paid": false,
+      "registered_courses": ["CNS302"]
+    }
+  },
+  "courses": {
+    "AGI301": "Agentic AI",
+    "CNS302": "Computer Networks & Security",
+    "ML303":  "Machine Learning",
+    "DBMS304":"Database Management Systems"
+  }
+}
